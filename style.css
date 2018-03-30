@@ -2,7 +2,7 @@
 	display: flex;
 	justify-content: space-between;
 	list-style: none;
-	width: 500px
+	width: 500px;
 }
 .menu-link{
 	text-transform: uppercase;
@@ -50,6 +50,7 @@
 	padding-left: 0;
 	color: #ffffff;
 	padding-top: 40px;
+	text-align: left
 }
 ul{
 	list-style: none;
@@ -67,4 +68,47 @@ ul{
 
 .benefits-text{
 	font-size: 14px;
+}
+
+<<<<< Вторая часть мэина
+
+.about{
+	color: #656e74;
+	font-size: 14px;
+}
+.artical1{
+	display: flex;
+	justify-content: center;
+	list-style: none;
+	background-color: #ffffff;
+}
+.subartical{
+	width: 318px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 20px;
+}
+.art{
+	list-style: none;
+	width: 1200px;
+	margin: 0 auto;
+	padding-left: 0;
+	padding-top: 40px;
+	text-align: center;
+}
+h3{
+	font-size: 14px;
+	color: #fe968a;
+}
+.artic{
+	color: #a2ca28;
+	font-size: 35px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin: 0px;
+}
+.more{
+		font-size: 14px;
+		color: #b0d256;
+		text-decoration: none;
 }
